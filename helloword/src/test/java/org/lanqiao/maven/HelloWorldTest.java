@@ -2,6 +2,7 @@ package org.lanqiao.maven;
 import org.junit.Test;
 import static junit.framework.Assert.*;
 public class HelloWorldTest{
+	//php
 	@Test
 	public void testHello(){
 		HelloWorld hello = new HelloWorld();
